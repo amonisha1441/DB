@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "dbs"
+  org = "bfslab"
+  version = "0.1.0"
+
